@@ -1,0 +1,23 @@
+html{
+  text-align: center;
+}
+
+h1
+{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.intro
+{
+    background-image: url("/Users/ssputt/Documents/Learn/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png");
+    background-position: center;
+}
+navsec
+{
+font-family: Helvetica;
+font-size: 18px;
+color: white;
+}
