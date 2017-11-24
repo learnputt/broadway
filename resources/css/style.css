@@ -15,9 +15,39 @@ h1
     background-image: url("/Users/ssputt/Documents/Learn/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png");
     background-position: center;
 }
-navsec
+.intro h2
+{
+  color: white;
+}
+.navsec
 {
 font-family: Helvetica;
 font-size: 18px;
 color: white;
+}
+.sec h2
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.sec-item h3
+{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.sec-item p
+{
+  font-family: Helvetica;
+  font-size: 14px;
+  color: gray;
+}
+.footer
+{
+  font-family: Helvetica;
+  font-size:11px;
+  color:white;
+  background-color:dimgray;
+  text-align: left;
 }
