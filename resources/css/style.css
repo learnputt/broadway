@@ -12,7 +12,7 @@ h1
 
 .intro
 {
-    background-image: url("/Users/ssputt/Documents/Learn/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png");
+    background-image: url("../images/the-flatiron-building.png");
     background-position: center;
 }
 .intro h2
